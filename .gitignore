@@ -1,0 +1,17 @@
+# created by virtualenv automatically
+bin
+build
+dist
+etc
+lib
+lib64
+credentials
+pabulib_data/*
+setup.py
+pyvenv.cfg
+*.csv
+share
+*.log
+*.xls*
+*.png
+pabutools/__pycache__
