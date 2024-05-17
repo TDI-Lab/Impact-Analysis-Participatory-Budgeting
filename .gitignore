@@ -9,7 +9,8 @@ credentials
 pabulib_data/*
 setup.py
 pyvenv.cfg
-*.csv
+metadata.csv
+projects.csv
 share
 *.log
 *.xls*

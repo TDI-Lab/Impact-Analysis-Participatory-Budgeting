@@ -1,0 +1,2 @@
+election_id;description;country;unit;subunit;district;instance;num_projects;num_votes;budget;rule;vote_type;date_begin;date_end;min_sum_points;max_sum_points;language;edition;comments
+1000;Aaurau Switzerland;Switzerland;Aaurau;Aaurau;;2023;33;1703;50000;greedy;cumulative;09.09.2023;23.09.2023;1;10;english german;1;
